@@ -15,4 +15,4 @@
 /log/*
 !/log/.keep
 /tmp
-.ds_store
+.ds_storegit status
