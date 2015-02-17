@@ -16,3 +16,4 @@
 !/log/.keep
 /tmp
 .ds_storegit status
+/public/system/*
